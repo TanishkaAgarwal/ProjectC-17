@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "..\\..\\C18SA-main"
+		},
+		{
+			"path": "..\\..\\C17-SA-main"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "C17-SA-main"
+	}
+}
